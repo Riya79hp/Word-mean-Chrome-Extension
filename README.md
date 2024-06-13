@@ -17,7 +17,7 @@ CSS: Styles the extension for a clean and user-friendly appearance.
 JavaScript: Facilitates communication with the API and handles user interactions.
 Installation
 Clone the Repository:
-git clone https://github.com/yourusername/dictionary-chrome-extension.git
+git clone https://github.com/riya79hp/dictionaryapiextension.git
 Load the Extension in Chrome:
 Open Chrome and navigate to chrome://extensions/.
 Enable "Developer mode" by clicking the toggle switch in the top right corner.
