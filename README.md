@@ -1,5 +1,7 @@
-#📚 Dictionary Chrome Extension
+📚 Dictionary Chrome Extension
+
 Overview
+
 The Dictionary Chrome Extension swiftly delivers word meanings, boasting an impressive retrieval speed of up to 0.5 seconds per query. This tool achieves an outstanding 85% accuracy rate and provides 2-3 meanings for each queried word.
 
 Features
